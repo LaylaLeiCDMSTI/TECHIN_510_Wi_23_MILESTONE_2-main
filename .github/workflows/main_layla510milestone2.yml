@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Layla510Milestone2'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0C95ADBF1B1469F85B6FB1187077A63 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4066EC3527F3421EAA17E1AEAA2ACC40 }}
